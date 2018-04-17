@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\n\ Write\ a\ description\ of\ class\ Card\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=img
+comment1.target=Card(java.awt.Image)
+comment2.params=c
+comment2.target=Card(Ccolor)
+comment3.params=c\ n
+comment3.target=Card(Ccolor,\ int)
+comment4.params=
+comment4.target=Ccolor\ getColor()
+comment5.params=img
+comment5.target=void\ setImage(java.awt.Image)
+comment6.params=c
+comment6.target=void\ setColor(java.awt.Color)
+numComments=7

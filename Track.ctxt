@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Track
+comment0.text=\n\ Write\ a\ description\ of\ class\ Track\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Track()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Track\n
+comment2.params=xx\ yy\ c
+comment2.target=Track(int,\ int,\ Ccolor)
+comment3.params=
+comment3.target=void\ ChangeStatus()
+comment4.params=
+comment4.target=double\ getX()
+comment5.params=
+comment5.target=double\ getY()
+comment6.params=
+comment6.target=boolean\ getStatus()
+comment7.params=trainLength
+comment7.target=int\ addPoints(int)
+numComments=8
